@@ -1,0 +1,24 @@
+{
+  "name": "msgs-generator-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-tercero1/msgs-generator-random.git"
+  },
+  "keywords": [],
+  "author": "Martin Tercero <mtercero1@harding.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martin-tercero1/msgs-generator-random/issues"
+  },
+  "homepage": "https://github.com/martin-tercero1/msgs-generator-random#readme",
+  "bin": {
+    "msgs-generator-random": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
